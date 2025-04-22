@@ -58,3 +58,8 @@ To set up and run the project:
 4. Build and Run:
 
 - Build the project and run it on an Android emulator or a physical Android device to start playing the game.
+
+---
+
+## 📸 Screenshot
+![Guessmaster](https://github.com/user-attachments/assets/32adccfb-c34d-47f1-a4bc-5444be147a60)
